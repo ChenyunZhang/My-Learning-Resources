@@ -4,7 +4,10 @@
 ## Table of contents
 - [Rails Acrive Storage](#Rails_Acrive_Storage)
 - [React](#React)
-
+- [Ruby on Rails](#Ruby_on_Rails)
+- [Algorithm](#Algorithm)
+- [Web Design](#Web_Design)
+- [Coding Resources](#Coding_Resources)
 
 ### Rails Acrive Storage
 
@@ -18,7 +21,7 @@
 
 - [How to Tame Time Zones in Ruby on Rails](https://quipper.github.io/2016/02/12/how-to-tame-time-zones-in-ruby-on-rails.html)
 
-### Algorithem
+### Algorithm
 
 - [MIT open course - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
