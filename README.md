@@ -18,14 +18,14 @@
 
 ### Web Design
 
--[unDraw](https://undraw.co)
--[figma](https://www.figma.com/)
-
+-(unDraw)[https://undraw.co]
+-(figma)[https://www.figma.com/]
+    
 ### Coding Resources
 
-- (WWCODE)[https://www.womenwhocode.com/resources]
-- (JavaScript30)[https://javascript30.com/]
-- (CSX)[https://csx.codesmith.io/login]
-- (Learn Git Branching)[https://learngitbranching.js.org/?demo]
-- (JavaScript Garden)[https://bonsaiden.github.io/JavaScript-Garden/]
-- (resources)[https://www.notion.so/f582f644c48f45f3b7086d1c33c665d9?v=bfeaee791f8b4aa68ad241462c94d92e]
+- [WWCODE](https://www.womenwhocode.com/resources)
+- [JavaScript30](https://javascript30.com/)
+- [CSX](https://csx.codesmith.io/login)
+- [Learn Git Branching](https://learngitbranching.js.org/?demo)
+- [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+- [resources](https://www.notion.so/f582f644c48f45f3b7086d1c33c665d9?v=bfeaee791f8b4aa68ad241462c94d92e)
