@@ -1,4 +1,4 @@
-<h1 algn="center">Resources helped me during project week</h1>
+<h1 align="center">Resources helped me during project week</h1>
 
 #### Rails Acrive Storage
 
