@@ -8,6 +8,7 @@
 - [Algorithm](#Algorithm)
 - [Web Design](#Web-Design)
 - [Coding Resources](#Coding-Resources)
+- [Job Search](#Job-Search)
 
 ### Rails Acrive Storage
 
@@ -38,3 +39,7 @@
 - [Learn Git Branching](https://learngitbranching.js.org/?demo)
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 - [resources](https://www.notion.so/f582f644c48f45f3b7086d1c33c665d9?v=bfeaee791f8b4aa68ad241462c94d92e)
+
+### Job Search
+-[Watch technical mock interviews with
+engineers from FANG](https://interviewing.io/recordings/)
