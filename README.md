@@ -2,6 +2,8 @@
 
 ### Rails Acrive Storage
 
+Cloudinary provides cloud image and video management service, and it's free.
+I compared it with aws and google cloud, cloundinary is definitely the best one for me to put the website into production.
 - [Using Cloudinary and Active Storage](https://hackernoon.com/image-storage-in-rails-apps-using-cloudinary-and-active-storage-9w2u3yli)
 
 ### React
