@@ -2,12 +2,12 @@
 
 ### Rails Acrive Storage
 
-- Cloudinary is a great alternative for local storage when using active storage. [Image Storage in Rails Apps Using Cloudinary and Active Storage](https://hackernoon.com/image-storage-in-rails-apps-using-cloudinary-and-active-storage-9w2u3yli){:target="_blank"} that helped me to setup the environment.
+- Cloudinary is a great alternative for local storage when using active storage. [Image Storage in Rails Apps Using Cloudinary and Active Storage](https://hackernoon.com/image-storage-in-rails-apps-using-cloudinary-and-active-storage-9w2u3yli) that helped me to setup the environment.
 
 ### React
 
-- [How to display a preview of an image upload in React](https://medium.com/@650egor/react-30-day-challenge-day-2-image-upload-preview-2d534f8eaaa){:target="_blank"}
+- [How to display a preview of an image upload in React](https://medium.com/@650egor/react-30-day-challenge-day-2-image-upload-preview-2d534f8eaaa)
 
 ### Ruby on Rails
 
-- [How to Tame Time Zones in Ruby on Rails](https://quipper.github.io/2016/02/12/how-to-tame-time-zones-in-ruby-on-rails.html){:target="_blank"}
+- [How to Tame Time Zones in Ruby on Rails](https://quipper.github.io/2016/02/12/how-to-tame-time-zones-in-ruby-on-rails.html)
