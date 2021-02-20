@@ -18,8 +18,8 @@
 
 ### Web Design
 
--[unDraw](https://undraw.co)
--[figma](https://www.figma.com/)
+- [unDraw](https://undraw.co)
+- [figma](https://www.figma.com/)
 
 ### Coding Resources
 
