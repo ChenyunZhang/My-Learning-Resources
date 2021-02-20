@@ -41,5 +41,5 @@
 - [resources](https://www.notion.so/f582f644c48f45f3b7086d1c33c665d9?v=bfeaee791f8b4aa68ad241462c94d92e)
 
 ### Job Search
--[Watch technical mock interviews with
+- [Watch technical mock interviews with
 engineers from FANG](https://interviewing.io/recordings/)
