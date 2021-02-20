@@ -2,13 +2,14 @@
 
 
 ## Table of contents
+- [Algorithm](#Algorithm)
+- [Coding Resources](#Coding-Resources)
+- [Job Search](#Job-Search)
 - [Rails Acrive Storage](#Rails-Acrive-Storage)
 - [React](#React)
 - [Ruby on Rails](#Ruby-on-Rails)
-- [Algorithm](#Algorithm)
 - [Web Design](#Web-Design)
-- [Coding Resources](#Coding-Resources)
-- [Job Search](#Job-Search)
+
 
 ### Rails Acrive Storage
 
