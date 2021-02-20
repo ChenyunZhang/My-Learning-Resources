@@ -2,7 +2,7 @@
 
 ### Rails Acrive Storage
 
-- Cloudinary is a great alternative for local storage when using active storage. [Guide]((https://hackernoon.com/image-storage-in-rails-apps-using-cloudinary-and-active-storage-9w2u3yli)) that helped me to setup the environment. 
+- Cloudinary is a great alternative for local storage when using active storage. [Guide]((https://hackernoon.com/image-storage-in-rails-apps-using-cloudinary-and-active-storage-9w2u3yli)) that helped me to setup the environment.)
 
 ### React
 
