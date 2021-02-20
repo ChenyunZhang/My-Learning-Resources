@@ -2,7 +2,7 @@
 
 
 ## Table of contents
-- [Rails Acrive Storage](#Rails Acrive Storage)
+- [Rails Acrive Storage](#Rails_Acrive_Storage)
 - [React](#React)
 
 
