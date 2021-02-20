@@ -2,12 +2,12 @@
 
 
 ## Table of contents
-- [Rails Acrive Storage](#Rails_Acrive_Storage)
+- [Rails Acrive Storage](#Rails-Acrive-Storage)
 - [React](#React)
-- [Ruby on Rails](#Ruby_on_Rails)
+- [Ruby on Rails](#Ruby-on-Rails)
 - [Algorithm](#Algorithm)
-- [Web Design](#Web_Design)
-- [Coding Resources](#Coding_Resources)
+- [Web Design](#Web-Design)
+- [Coding Resources](#Coding-Resources)
 
 ### Rails Acrive Storage
 
