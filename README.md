@@ -36,6 +36,7 @@
 - [WWCODE](https://www.womenwhocode.com/resources)
 - [JavaScript30](https://javascript30.com/)
 - [CSX](https://csx.codesmith.io/login)
+- [Frondend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Learn Git Branching](https://learngitbranching.js.org/?demo)
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 - [resources](https://www.notion.so/f582f644c48f45f3b7086d1c33c665d9?v=bfeaee791f8b4aa68ad241462c94d92e)
